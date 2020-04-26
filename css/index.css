@@ -1,0 +1,16 @@
+#texte_presentation{
+	width: 340px;
+	margin-left: 40px;
+	margin-top: 60px;
+}
+#texte_presentation p{
+	padding-right: 30px;
+}
+#CU3ER-containter{
+	overflow: hidden;
+	position: relative;
+	width: 400px;
+	height: 515px;
+	float: right;
+	right: 31px;
+}
