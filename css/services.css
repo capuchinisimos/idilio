@@ -1,0 +1,9 @@
+.sous_rubrique{
+	display: none;
+}
+.sous_rubrique li:first-child{
+	border: none!important;
+	padding-bottom: 0px!important;
+	margin-bottom: 0px!important;
+	font-size: 15px!important;
+}

@@ -1,0 +1,35 @@
+#tableau_prix{
+	width:600px;
+	margin: auto;
+}
+.miniature_tarif{
+	width:90px;
+	height:100px;
+	margin: 35px 50px 35px  50px;
+}
+#content_tarif{
+	display:inline-block;
+	overflow:hidden;
+	width:190px;
+	height:180px;
+	position: relative;
+	text-align: center;
+}
+.tableau_prix{
+	display:none;
+	font-size: 14px;
+}
+.tableau_prix th{
+	color: #8D0033!important;
+	text-align: left;
+}
+.tableau_prix tr td:first-child{
+	font-weight: bold;
+	text-align: left;
+	width:170px;
+	display: block;
+	padding: 5px 0;
+}
+.tableau_prix tr td:last-child, .tableau_prix tr th:last-child{
+	text-align: right;
+}
